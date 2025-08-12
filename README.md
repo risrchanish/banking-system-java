@@ -21,7 +21,7 @@
 ## How to Run
  1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/console-bank-app.git
+   git clone https://github.com/risrchanish/banking-system-java.git
    ```
  2. Compile and run:
     ```bash
